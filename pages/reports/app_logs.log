@@ -1,0 +1,979 @@
+17/02/23 03:04:31 AM Friday - <module> - INFO : Launch app
+17/02/23 12:08:28 PM Friday - <module> - INFO : Launch app
+17/02/23 12:27:25 PM Friday - <module> - INFO : Launch app
+17/02/23 12:31:55 PM Friday - <module> - INFO : Launch app
+17/02/23 01:01:40 PM Friday - <module> - INFO : Launch app
+17/02/23 01:35:25 PM Friday - <module> - INFO : Launch app
+17/02/23 01:37:11 PM Friday - <module> - INFO : Launch app
+17/02/23 01:37:43 PM Friday - <module> - INFO : Launch app
+17/02/23 02:59:10 PM Friday - <module> - INFO : Launch app
+17/02/23 09:59:42 PM Friday - <module> - INFO : Launch app
+17/02/23 10:01:33 PM Friday - <module> - INFO : Launch app
+17/02/23 10:15:12 PM Friday - <module> - INFO : Launch app
+17/02/23 10:15:44 PM Friday - <module> - INFO : Launch app
+17/02/23 10:32:02 PM Friday - <module> - INFO : Launch app
+17/02/23 11:20:30 PM Friday - <module> - INFO : Launch app
+17/02/23 11:47:06 PM Friday - <module> - INFO : Launch app
+18/02/23 09:39:34 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:18:51 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:22:24 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:27:33 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:47:14 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:49:29 AM Saturday - <module> - INFO : Launch app
+18/02/23 10:58:24 AM Saturday - <module> - INFO : Launch app
+18/02/23 11:20:04 AM Saturday - <module> - INFO : Launch app
+18/02/23 11:31:51 AM Saturday - <module> - INFO : Launch app
+18/02/23 01:22:07 PM Saturday - <module> - INFO : Launch app
+18/02/23 01:39:34 PM Saturday - <module> - INFO : Launch app
+18/02/23 01:40:18 PM Saturday - <module> - INFO : Launch app
+19/02/23 12:13:15 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:13:48 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:32:18 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:34:15 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:49:07 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:49:07 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:49:31 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:49:31 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:50:39 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:52:26 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:52:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 12:55:54 PM Sunday - <module> - INFO : Launch app
+19/02/23 12:55:54 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 12:55:54 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 01:00:35 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:00:39 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:00:39 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 01:01:29 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:01:34 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:01:34 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:02:23 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:02:23 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:02:23 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:02:57 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:03:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:03:30 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:13:25 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:13:25 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:19:25 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:19:25 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:19:25 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 01:21:01 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:21:01 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:21:01 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 01:21:31 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:21:41 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:21:41 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 01:26:11 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:26:11 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :e.g., 500 12345
+19/02/23 01:26:11 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :e.g., 500 12345
+19/02/23 01:26:11 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:26:11 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:28:30 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:28:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:28:30 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:28:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:28:30 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:29:05 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:29:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:29:05 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:29:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:29:05 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 01:29:36 PM Sunday - <module> - INFO : Launch app
+19/02/23 01:29:49 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 01:29:49 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 02:59:46 PM Sunday - <module> - INFO : Launch app
+19/02/23 02:59:46 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 02:59:46 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 02:59:46 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 02:59:46 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:01:43 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:01:43 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:01:43 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number is not displayed
+19/02/23 03:05:18 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:05:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:05:23 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_numberis displayed
+19/02/23 03:06:08 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:06:13 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:06:13 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_numberis displayed
+19/02/23 03:06:13 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:06:13 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:06:13 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:06:14 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:09:31 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:09:36 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:09:36 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:09:36 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:09:37 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 03:09:37 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:09:37 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:13:53 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:13:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:13:58 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:13:59 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:13:59 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 03:13:59 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:13:59 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:14:02 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:14:02 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:14:03 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:14:03 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:14:05 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 03:14:05 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 03:33:57 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:34:22 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:34:22 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:34:47 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:34:47 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 03:34:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:34:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:35:36 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:36:02 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:36:02 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/ivBack
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/ivBack is not displayed
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 03:36:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 03:37:46 PM Sunday - <module> - INFO : Launch app
+19/02/23 03:38:12 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:38:12 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 03:38:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:38:37 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 03:39:03 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:39:03 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:39:29 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:39:29 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 03:39:38 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 03:39:38 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:13:24 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:13:43 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:13:43 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:14:17 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:14:43 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:14:43 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:14:49 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:14:49 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 04:14:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 04:15:09 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:15:14 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:15:14 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:15:15 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:15:15 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 04:15:15 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:15:15 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:15:17 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:15:17 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:15:18 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:15:18 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 04:15:43 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 04:16:09 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 04:16:09 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 04:16:34 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 04:16:34 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 04:17:00 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 04:17:00 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 04:17:44 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:18:09 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:18:09 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:18:35 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:18:35 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:18:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:18:54 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:19:00 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:19:01 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:19:02 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:19:02 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:19:27 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:19:27 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:19:46 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:20:11 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:20:11 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:20:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:20:37 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:21:03 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:21:03 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:21:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:21:28 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:21:53 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:21:53 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:22:19 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:22:19 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:22:19 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:22:19 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:25:15 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:25:42 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:25:42 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:26:07 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:26:07 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:26:33 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:26:33 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:26:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:26:59 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:27:18 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:27:18 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:27:44 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:28:11 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:28:11 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:28:36 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:28:36 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:28:47 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:28:47 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:30:08 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:30:34 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:30:34 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:31:00 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:31:00 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:31:25 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:31:25 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:31:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:31:50 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:32:17 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:32:17 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:35:40 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:36:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:36:05 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:36:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:36:30 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:36:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:36:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:37:10 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:37:10 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:37:35 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:37:35 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:37:56 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:38:22 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:38:22 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:38:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:38:30 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:38:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:38:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:39:22 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:39:22 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:39:49 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:39:49 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:40:58 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:41:02 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:41:02 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:41:03 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:41:04 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 04:41:04 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:41:04 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:41:06 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:41:06 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:46:51 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:47:39 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:48:23 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:48:27 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:48:28 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:48:28 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:48:28 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 04:48:28 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:48:28 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:48:30 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:48:30 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:50:02 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:50:06 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:50:07 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:50:07 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:50:07 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 04:50:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:50:08 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:50:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:50:09 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:50:10 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:50:10 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:50:35 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:50:35 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:50:35 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:51:43 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:52:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:52:08 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:52:10 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:52:10 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:52:31 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:52:57 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:52:57 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:53:22 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:53:22 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:53:48 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:53:48 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:53:48 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:53:48 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:54:06 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:06 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:41 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:54:46 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:54:47 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:54:47 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:47 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 04:54:47 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:47 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:49 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:54:50 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:54:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:50 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:54:52 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:54:52 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 04:55:18 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:55:18 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 04:57:30 PM Sunday - <module> - INFO : Launch app
+19/02/23 04:57:57 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:57:57 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 04:58:22 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:58:22 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 04:58:47 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:58:47 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:59:13 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:59:13 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 04:59:39 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 04:59:39 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:00:04 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 05:00:04 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 05:00:04 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 05:00:04 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 05:00:04 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 05:00:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 05:00:05 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 05:00:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 05:00:30 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 05:00:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 05:00:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 05:02:02 PM Sunday - <module> - INFO : Launch app
+19/02/23 05:02:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 05:02:28 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 05:02:53 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:02:53 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 05:03:19 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:03:19 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:03:45 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 05:03:45 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 05:04:10 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:04:10 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 05:04:36 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 05:04:36 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 05:04:36 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 05:04:36 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 05:04:36 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 05:05:01 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 05:05:01 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 05:05:27 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 05:05:27 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 05:05:52 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 05:05:52 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 05:06:16 PM Sunday - <module> - INFO : Launch app
+19/02/23 07:32:49 PM Sunday - <module> - INFO : Launch app
+19/02/23 07:33:14 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 07:33:14 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 07:33:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 07:33:40 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 07:34:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 07:34:05 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 07:34:31 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 07:34:31 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 07:34:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 07:34:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 07:35:21 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 07:35:21 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 07:35:21 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 07:35:21 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 07:35:21 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 07:35:47 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 07:35:47 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 07:36:12 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 07:36:12 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 07:36:38 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 07:36:38 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 07:59:53 PM Sunday - login - INFO : Launch app
+19/02/23 08:00:19 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 08:00:19 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 08:00:45 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:00:45 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 08:01:11 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:01:11 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 08:01:26 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 08:17:14 PM Sunday - login - INFO : Launch app
+19/02/23 08:17:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 08:17:40 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 08:18:05 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:18:05 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 08:18:30 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:18:30 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:18:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 08:18:56 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 08:19:21 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:19:21 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 08:19:46 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 08:19:46 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 08:19:46 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 08:19:46 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 08:19:46 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 08:20:12 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 08:20:12 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 08:20:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 08:20:37 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 08:21:02 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 08:21:02 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:45:39 PM Sunday - login - INFO : Launch app
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:45:40 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:46:41 PM Sunday - login - INFO : Launch app
+19/02/23 09:47:06 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:47:06 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:47:07 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:47:07 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:47:08 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:48:53 PM Sunday - login - INFO : Launch app
+19/02/23 09:48:57 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:48:58 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:48:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:49:52 PM Sunday - login - INFO : Launch app
+19/02/23 09:49:57 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:49:58 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:49:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:49:58 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:49:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:49:58 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:49:59 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:50:45 PM Sunday - login - INFO : Launch app
+19/02/23 09:50:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:50:51 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:50:51 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:50:51 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:50:51 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:50:51 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:50:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:50:54 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:50:55 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:50:55 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Locator value com.theentertainerme.stcentertainer:id/checkbox_location_rownot found
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id' with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id' and with the locatorValue :com.theentertainerme.stcentertainer:id/checkbox_location_row
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_done_location
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tv_yes_please
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:50:56 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.android.permissioncontroller:id/permission_allow_foreground_only_button
+19/02/23 09:51:49 PM Sunday - login - INFO : Launch app
+19/02/23 09:51:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:51:54 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:51:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:51:55 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:51:55 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:51:55 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:51:57 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:51:58 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:51:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:51:59 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:52:00 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:52:00 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:52:25 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 09:53:00 PM Sunday - login - INFO : Launch app
+19/02/23 09:53:26 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:53:26 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:53:34 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:53:34 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 09:54:00 PM Sunday - login - INFO : Launch app
+19/02/23 09:54:21 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:54:21 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:54:26 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:54:26 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:54:26 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:54:26 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:03 PM Sunday - login - INFO : Launch app
+19/02/23 09:55:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:55:08 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:55:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:08 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:55:08 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:09 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:11 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:55:11 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:55:11 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:12 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:55:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:55:37 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:55:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 09:56:56 PM Sunday - login - INFO : Launch app
+19/02/23 09:57:01 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:57:02 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 09:57:02 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:57:03 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 09:57:03 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:57:03 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:57:29 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:57:29 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 09:57:29 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:57:29 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 09:57:55 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:57:55 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 09:58:21 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 10:00:18 PM Sunday - login - INFO : Launch app
+19/02/23 10:00:22 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:00:23 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:00:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:00:23 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 10:00:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:00:23 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:00:24 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:00:24 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:00:24 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:00:25 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:00:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:00:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:00:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 10:02:28 PM Sunday - login - INFO : Launch app
+19/02/23 10:02:33 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:02:33 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:02:34 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:02:34 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 10:02:34 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:02:34 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:02:36 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:02:36 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:02:37 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:02:37 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:18 PM Sunday - login - INFO : Launch app
+19/02/23 10:03:22 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:03:23 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:03:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:24 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 10:03:24 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:24 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:25 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:03:26 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:03:26 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:26 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:03:46 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:03:46 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:03:46 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 10:04:49 PM Sunday - login - INFO : Launch app
+19/02/23 10:04:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:04:54 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:04:54 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:04:55 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 10:04:55 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:04:55 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:04:56 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:04:57 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:04:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:04:58 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:05:23 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:05:23 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:05:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/tvSkip
+19/02/23 10:24:16 PM Sunday - login - INFO : Launch app
+19/02/23 10:24:20 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:24:21 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:24:21 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:24:21 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinueis displayed
+19/02/23 10:24:21 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:24:21 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:24:23 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:24:23 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:24:24 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:24:24 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:24:50 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:24:50 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:24:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.stcentertainer:id/ivBack
+19/02/23 10:26:11 PM Sunday - login - INFO : Launch app
+19/02/23 10:26:36 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:26:36 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_number
+19/02/23 10:27:03 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:27:03 PM Sunday - locatorBasePage - INFO : Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue is not displayed
+19/02/23 10:27:28 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:27:28 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:27:54 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:27:54 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/et_password
+19/02/23 10:28:20 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:28:20 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btnContinue
+19/02/23 10:28:46 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:28:46 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/btn_reset_pass
+19/02/23 10:29:12 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.stcentertainer:id/ivBack
+19/02/23 10:41:29 PM Sunday - login - INFO : Launch app
+19/02/23 10:41:55 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:41:55 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:42:20 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:42:20 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:42:37 PM Sunday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:46:52 PM Sunday - login - INFO : Launch app
+19/02/23 10:46:55 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:46:56 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:46:57 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:46:57 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:46:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:46:58 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:46:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:46:58 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:46:58 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:46:59 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:48:40 PM Sunday - login - INFO : Launch app
+19/02/23 10:48:43 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:48:44 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:48:45 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:48:45 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:48:45 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:48:45 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:48:46 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:48:47 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:48:47 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:48:47 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:52:57 PM Sunday - login - INFO : Launch app
+19/02/23 10:53:01 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:53:02 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 10:53:02 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:53:03 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 10:53:04 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:53:04 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 10:53:04 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:53:04 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 10:53:05 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 10:53:05 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 11:14:01 PM Sunday - login - INFO : Launch app
+19/02/23 11:14:18 PM Sunday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 11:14:18 PM Sunday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 11:14:19 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 11:14:20 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 11:14:20 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 11:14:20 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 11:14:21 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 11:14:22 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 11:14:22 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 11:14:22 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 11:14:45 PM Sunday - login - INFO : Launch app
+19/02/23 11:14:48 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 11:14:49 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+19/02/23 11:14:50 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 11:14:50 PM Sunday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+19/02/23 11:14:51 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 11:14:51 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+19/02/23 11:14:51 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 11:14:51 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+19/02/23 11:14:52 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 11:14:52 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+19/02/23 11:14:57 PM Sunday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+19/02/23 11:14:57 PM Sunday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:11:29 AM Monday - login - INFO : Launch app
+20/02/23 12:11:55 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:11:55 AM Monday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:12:21 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:12:21 AM Monday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:12:35 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:12:35 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:13:01 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:13:01 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:13:26 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:13:26 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:13:54 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:13:54 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:15:56 AM Monday - login - INFO : Launch app
+20/02/23 12:15:59 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:16:00 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:16:00 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:16:00 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:16:02 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:16:02 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:16:03 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:16:03 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:16:04 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:16:04 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:16:07 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 12:16:08 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:16:08 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 12:16:08 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:16:10 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:16:10 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:24:08 AM Monday - login - INFO : Launch app
+20/02/23 12:24:27 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:24:28 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:24:29 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:24:29 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:24:29 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:24:29 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:24:30 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:24:31 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:24:31 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:24:31 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:24:33 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 12:24:34 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:24:34 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 12:24:34 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:24:35 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:24:35 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:26:00 AM Monday - login - INFO : Launch app
+20/02/23 12:26:03 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:26:04 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:26:04 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:26:05 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:26:06 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:26:06 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:26:06 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:26:07 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:26:07 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:26:07 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:26:10 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 12:26:10 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:26:11 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 12:26:11 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:26:12 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:29:18 AM Monday - login - INFO : Launch app
+20/02/23 12:29:21 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:29:21 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:29:22 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:29:22 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:29:23 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:29:23 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:29:24 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:29:24 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:29:24 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:29:25 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:29:27 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 12:29:27 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:29:28 AM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 12:29:28 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:29:30 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:29:30 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 12:29:30 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 12:33:24 AM Monday - login - INFO : Launch app
+20/02/23 12:33:27 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:33:28 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:33:28 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:33:29 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:33:30 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:33:30 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:33:30 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:33:30 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:33:31 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:33:31 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:33:56 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:33:56 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:34:22 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:34:22 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:34:47 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/etEmail
+20/02/23 12:34:58 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 12:34:58 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 12:37:13 AM Monday - login - INFO : Launch app
+20/02/23 12:37:17 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:37:18 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 12:37:18 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:37:19 AM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 12:37:19 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:37:19 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 12:37:19 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:37:20 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 12:37:21 AM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:37:21 AM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 12:37:46 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:37:46 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 12:38:11 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:38:11 AM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 12:38:38 AM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :testqash0+testq@gmail.com
+20/02/23 02:49:32 PM Monday - login - INFO : Launch app
+20/02/23 02:49:36 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:49:36 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:49:37 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:49:38 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:49:38 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:49:38 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:49:39 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:49:39 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:49:40 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:49:40 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:49:44 PM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 02:49:44 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:49:44 PM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 02:49:45 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:49:46 PM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :testqash0+testq@gmail.com
+20/02/23 02:51:14 PM Monday - login - INFO : Launch app
+20/02/23 02:51:39 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:51:39 PM Monday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:52:04 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:52:04 PM Monday - locatorBasePage - INFO : Unable to send text on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:52:30 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:52:30 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:52:32 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:52:32 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:52:33 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:52:33 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 02:52:36 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 02:52:53 PM Monday - login - INFO : Launch app
+20/02/23 02:52:56 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:52:56 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:52:57 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:52:58 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:52:58 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:52:58 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:52:59 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:52:59 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:52:59 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:53:00 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:53:25 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:53:25 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:53:43 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:53:43 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:54:09 PM Monday - locatorBasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 02:54:09 PM Monday - locatorBasePage - INFO : Unable to click on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 02:54:54 PM Monday - login - INFO : Launch app
+20/02/23 02:54:57 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:54:57 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_email
+20/02/23 02:54:58 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:54:59 PM Monday - locatorBasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/et_password
+20/02/23 02:54:59 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:54:59 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_privacy_policy
+20/02/23 02:54:59 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:55:00 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/checkbox_new_user
+20/02/23 02:55:01 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:55:01 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/btnContinue
+20/02/23 02:55:08 PM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile
+20/02/23 02:55:09 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile
+20/02/23 02:55:09 PM Monday - locatorBasePage - INFO : Element found with LocatorType: text with the locatorValue :Profile Details
+20/02/23 02:55:09 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Profile Details
+20/02/23 02:55:10 PM Monday - locatorBasePage - INFO : Element found with LocatorType: id with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
+20/02/23 02:55:10 PM Monday - locatorBasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.theentertainerme.sgdaentertainer:id/iv_back
